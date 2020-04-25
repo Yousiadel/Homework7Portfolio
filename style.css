@@ -1,0 +1,36 @@
+.body{
+    background: center;
+    background: transparent;
+}
+.index-img {
+    background: cover;
+}
+img {
+    -webkit-filter: grayscale(40%); /* Safari 6.0 - 9.0 */
+    filter: grayscale(40%);
+}
+.p {
+	font-family: 'Cabin', Helvetica, Arial, sans-serif;
+	font-size: 15px;
+	line-height: 25px;
+}
+.collapse-navbar-collapse{
+font-family: Lobster, sans-serif;
+}
+.float-left { 
+    float: left;
+    margin-left: 100px;
+}
+footer{
+    font-size: 1.5em;
+    width: 100%;
+    color:white;
+    background: rgb(43, 72, 80);
+    padding: 20px 0 50px 0;
+    border-top: 5px;
+    border-style: solid;
+    text-align: center; 
+    height: 30px;
+
+}
+
